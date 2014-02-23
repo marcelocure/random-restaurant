@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ilegra Lunch</string>
+    <string name="action_settings">Settings</string>
+    <string name="generate_button">Escolher Restaurante</string>
+    <string name="radio_perto">Perto</string>
+    <string name="radio_longe">Longe</string>
+
+</resources>
